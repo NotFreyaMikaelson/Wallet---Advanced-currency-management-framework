@@ -264,7 +264,6 @@ Wallet.exchange(player, "Gold", "Gems", 1000)
 ### Creator Store: [Wallet](https://create.roblox.com/store/asset/123585952224629/Wallet)
 
 **Version:** 1.0.0
-**Last Updated:** [date=2025-11-14 timezone="America/Bogota"]
 **Maintained by:** Cerso98zt (AlwaysAndForever)
 
 > # **Version 1.0.0**
