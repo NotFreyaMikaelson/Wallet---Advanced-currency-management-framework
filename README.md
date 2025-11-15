@@ -266,10 +266,7 @@ Wallet.exchange(player, "Gold", "Gems", 1000)
 **Version:** 1.0.0
 **Last Updated:** [date=2025-11-14 timezone="America/Bogota"]
 **Maintained by:** Cerso98zt (AlwaysAndForever)
-[/details]
 
-
-[details="Changelogs"]
 > # **Version 1.0.0**
 > - Initial stable release of **Wallet**
 > - All core systems fully implemented and production-tested
@@ -277,4 +274,3 @@ Wallet.exchange(player, "Gold", "Gems", 1000)
 > - API marked as stable
 > - Ready for enterprise-scale deployments
 > production.
-[/details]
