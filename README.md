@@ -262,7 +262,7 @@ Wallet.exchange(player, "Gold", "Gems", 1000)
 **For issues, questions, or feature requests, please refer to the documentation or contact the framework maintainer.**
 ### Special thanks to [NetRay](https://devforum.roblox.com/t/netray-high-performance-roblox-networking-library/3592849/1) (High perfomance Networking library)
 ### Creator Store: [Wallet](https://create.roblox.com/store/asset/123585952224629/Wallet)
-[details="Info"]
+
 **Version:** 1.0.0
 **Last Updated:** [date=2025-11-14 timezone="America/Bogota"]
 **Maintained by:** Cerso98zt (AlwaysAndForever)
